@@ -42,7 +42,7 @@ If you have any questions, concerns, or requests regarding your data or this Pri
 
     Discord: https://discord.gg/bcj8FPr6wy
     Email: onze-development@proton.me
-    Twitter: https://twitter.com/OnzeDevelopment
+    X: https://twitter.com/OnzeDevelopment
 
 ## 6. Changes to Privacy Policy
 
