@@ -16,6 +16,7 @@ This document delineates the policies governing the acquisition, utilization, an
 When you use the Service, we collect the following data:
 
     User ID: This is collected to identify users and provide personalized services.
+    User Locale: This is collected to identify language of the users and provide personalized services.
     Event IDs: These are collected to identify the events to which users subscribe for notifications.
     Event Timestamps: These are collected to determine the time at which notifications should be sent.
     Silent Notifications Preference: This is collected to identify if users prefer notifications to be silent.
